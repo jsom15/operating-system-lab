@@ -1,3 +1,3 @@
 # operating-system-lab
-## Somya Kymrawat
+## Somya Kumrawat
  * This is my collection of programms made by me in lab
